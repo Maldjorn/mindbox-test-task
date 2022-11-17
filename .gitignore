@@ -350,4 +350,5 @@ MigrationBackup/
 .ionide/
 
 # NCrunch Generated Files
-.ncrunchsolution
+*.ncrunchsolution
+/_NCrunch_MidnboxTestTask
